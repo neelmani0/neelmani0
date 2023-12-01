@@ -2,7 +2,7 @@
 
 
 <img width="100%"
-  src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=F79812;size=20&amp;lines=Hello,+I+am+Nidhi+Kumari+;Full+Stack-web+Developer...;">
+  src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=F79812;size=20&amp;lines=Hello,+I+am+Neel+Mani+;Full+Stack-web+Developer...;">
 I'm a passionate Full Stack Web developer. I focuses on writing clean, elegant and efficient code ✨.
 
 - 📫 How to reach me: neeelmanibcet@gmail.com.
